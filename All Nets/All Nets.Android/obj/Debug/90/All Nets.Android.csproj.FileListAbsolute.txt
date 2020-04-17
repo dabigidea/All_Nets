@@ -476,3 +476,38 @@ C:\Users\royhi\source\repos\All Nets\All Nets\All Nets.Android\obj\Debug\90\stam
 C:\Users\royhi\source\repos\All Nets\All Nets\All Nets.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\royhi\source\repos\All Nets\All Nets\All Nets.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\royhi\source\repos\All Nets\All Nets\All Nets.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\build.props
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\adb.props
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\All Nets.Android.csprojAssemblyReference.cache
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\res.flag
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\F007B382502BECED.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\B443DC4B452BF1D5.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\A452616E122B8535.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\777AEFCA930D7A4E.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\0C0B25BF544C162C.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\3066A0FFE66E22A3.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\B8EE7E6DCD6E18D3.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\FCAA11A4D86E05EB.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\20771DDAB16E5643.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\7BD74DEC1B489348.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\3F9322250E488E70.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\F007B382502BECED.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\B443DC4B452BF1D5.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\A452616E122B8535.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\777AEFCA930D7A4E.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\0C0B25BF544C162C.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\3066A0FFE66E22A3.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\B8EE7E6DCD6E18D3.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\FCAA11A4D86E05EB.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\20771DDAB16E5643.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\7BD74DEC1B489348.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\3F9322250E488E70.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\R.txt
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\R.cs.flag
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\All Nets.Android.csproj.CoreCompileInputs.cache
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\All Nets.Android.dll
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets.Android\obj\Debug\90\All Nets.Android.pdb

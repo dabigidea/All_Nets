@@ -1024,11 +1024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets.iOS\\All Nets.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets.iOS\\All Nets.iOS.csproj",
       "projectName": "All Nets.iOS",
-      "projectPath": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets.iOS\\All Nets.iOS.csproj",
+      "projectPath": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets.iOS\\All Nets.iOS.csproj",
       "packagesPath": "C:\\Users\\royhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets.iOS\\obj\\",
+      "outputPath": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1049,8 +1049,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets\\All Nets.csproj": {
-              "projectPath": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets\\All Nets.csproj"
+            "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets\\All Nets.csproj": {
+              "projectPath": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets\\All Nets.csproj"
             }
           }
         }

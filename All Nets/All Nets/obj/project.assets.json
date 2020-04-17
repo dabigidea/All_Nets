@@ -575,11 +575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets\\All Nets.csproj",
+      "projectUniqueName": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets\\All Nets.csproj",
       "projectName": "All Nets",
-      "projectPath": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets\\All Nets.csproj",
+      "projectPath": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets\\All Nets.csproj",
       "packagesPath": "C:\\Users\\royhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\royhi\\source\\repos\\All Nets\\All Nets\\All Nets\\obj\\",
+      "outputPath": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -635,7 +635,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
