@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TTpxZ6T+6PUagsBQTdeTJW/0Cp6m6uGnKB8sXLkMcoHF+cReh4xBFQROceOpzVSBb4sHla8DwTCjv/vr1p0BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\royhi\\source\\repos\\All_Nets1\\All Nets\\All Nets\\All Nets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\royhi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\royhi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\royhi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

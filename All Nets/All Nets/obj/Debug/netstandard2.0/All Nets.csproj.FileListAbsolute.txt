@@ -1,0 +1,38 @@
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\bin\Debug\netstandard2.0\All Nets.deps.json
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\bin\Debug\netstandard2.0\All Nets.dll
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\bin\Debug\netstandard2.0\ref\All Nets.dll
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\bin\Debug\netstandard2.0\All Nets.pdb
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.csprojAssemblyReference.cache
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.csproj.CoreCompileInputs.cache
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.AssemblyInfoInputs.cache
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.AssemblyInfo.cs
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.dll
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\ref\All Nets.dll
+C:\Users\royhi\source\repos\All Nets\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.pdb
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\bin\Debug\netstandard2.0\All Nets.deps.json
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\bin\Debug\netstandard2.0\All Nets.dll
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\bin\Debug\netstandard2.0\ref\All Nets.dll
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\bin\Debug\netstandard2.0\All Nets.pdb
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.csprojAssemblyReference.cache
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.csproj.CoreCompileInputs.cache
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.AssemblyInfoInputs.cache
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.AssemblyInfo.cs
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.dll
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\ref\All Nets.dll
+C:\Users\royhi\source\repos\All_Nets1\All Nets\All Nets\obj\Debug\netstandard2.0\All Nets.pdb
